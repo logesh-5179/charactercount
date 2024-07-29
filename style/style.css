@@ -1,0 +1,23 @@
+.cont{
+    margin: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    
+}
+textarea{
+    border: 3px solid black;
+    width: 80%;
+   
+    margin-bottom: 20px;
+   
+}
+body{
+    background-color: red;
+}
+
+
